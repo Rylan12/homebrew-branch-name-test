@@ -1,5 +1,7 @@
 # Rylan12 Branch-name-test
 
+Here is a test change
+
 ## How do I install these formulae?
 `brew install rylan12/branch-name-test/<formula>`
 
