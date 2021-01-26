@@ -6,6 +6,8 @@ Here is another test change
 
 Here is a third change
 
+Here is (hopefully) the last change
+
 ## How do I install these formulae?
 `brew install rylan12/branch-name-test/<formula>`
 
